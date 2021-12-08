@@ -10,6 +10,6 @@ I am currently working on:
 
 I am working actively on https://pvplite.co
 
-Contact me on Discord: fruits#1845
-Twitter: @applesfruityt
-YouTube: applesfruit
+- Contact me on Discord: fruits#1845
+- Twitter: @applesfruityt
+- YouTube: applesfruit
