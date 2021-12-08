@@ -1,16 +1,15 @@
-### Hi there 👋
+### My name is applesfruit (or you can call me fruits) and I use many programming language ranging from Python to C++.
 
-<!--
-**applesfruit/applesfruit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I normally use Java, C#, and C++, but I use many others for multiple projects.
 
-Here are some ideas to get you started:
+I am currently working on:
+- A Minecraft PvP Client (PvPLite)
+- A Multi-purpose Discord Bot using Discord Eris
+- A game using Unity
+- And many others
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am working actively on https://pvplite.co
+
+Contact me on Discord: fruits#1845
+Twitter: @applesfruityt
+YouTube: applesfruit
