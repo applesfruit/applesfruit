@@ -5,6 +5,9 @@ I normally use Java, C#, and C++, but I use many others for multiple projects.
 I am currently working on:
 - SimplifiedMC
 - FMT
+- VUAI
+\n
+I am currently doing commissions! Contact me on Discord for more information.
 
 - Contact me on Discord: fruits#1845
 - Twitter: @applesfruityt
