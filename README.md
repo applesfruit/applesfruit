@@ -6,6 +6,7 @@ I am currently working on:
 - SimplifiedMC
 - FMT
 - VUAI
+- Arctic Development
 
 I am currently doing commissions! Contact me on Discord for more information.
 
