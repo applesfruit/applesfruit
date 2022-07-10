@@ -3,10 +3,10 @@
 I normally use Java, C#, and C++, but I use many others for multiple projects.
 
 I am currently working on:
-- SimplifiedMC
-- FMT
-- VUAI
-- Arctic Development
+ - ReflexHosting (https://reflexhosting.net)
+ - EZStats
+ - Arctic Development
+ - Maybe more? Trying hard to find ideas.
 
 I am currently doing commissions! Contact me on Discord for more information.
 
