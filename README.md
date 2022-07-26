@@ -8,8 +8,7 @@ I am currently working on:
  - Arctic Development
  - Maybe more? Trying hard to find ideas.
 
-I am currently doing commissions! Contact me on Discord for more information.
+Actively working on EZStats (https://github.com/applesfruit/EZStats)
 
 - Contact me on Discord: fruits#1845
-- Twitter: @applesfruityt
 - YouTube: applesfruit
