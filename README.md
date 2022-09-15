@@ -8,5 +8,5 @@ I am currently working on:
  - Arctic Studios
  - Maybe more? Trying to find ideas.
 
-- Contact me on Discord: fruits#1845
+- Contact me on Discord: fruits#1845 | [Discord](https://discord.gg/eRFyvbdFE8)
 - YouTube: applesfruit
