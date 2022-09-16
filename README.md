@@ -4,9 +4,6 @@ I normally use Java, C#, and NodeJS/TS, but I use many others for multiple proje
 
 I am currently working on:
  - AlphaLands KitPvP (https://alphalands.net)
- - Secret (gonna release soon)
  - Arctic Studios
- - Maybe more? Trying to find ideas.
 
-- Contact me on Discord: fruits#1845 | [Discord](https://discord.gg/eRFyvbdFE8)
-- YouTube: applesfruit
+Contact me on Discord: fruits#1845 | [Discord](https://discord.gg/eRFyvbdFE8)
