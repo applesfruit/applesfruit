@@ -3,7 +3,6 @@
 I normally use Java, C#, and NodeJS/TS, but I use many others for multiple projects.
 
 I am currently working on:
- - AlphaLands KitPvP (https://alphalands.net)
- - Arctic Studios
+ - Nothing!
 
 Contact me on Discord: fruits#1845 | [Discord](https://discord.gg/eRFyvbdFE8)
