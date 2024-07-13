@@ -4,6 +4,5 @@ I normally use Java, C#, and NodeJS/TS, but I use many others for multiple proje
                                    
 I am currently working on:
  - Secret (shh)
- - 418..
 
 Contact me on Discord: @applesfruit | [Discord](https://discord.gg/eRFyvbdFE8)
